@@ -31,7 +31,6 @@ namespace RabbitSN
             using (Config config = new Config())
             {
                 Time = DateTime.Now;
-
                 string json = JsonSerializer.Serialize(this);
                 byte[] body = Encoding.UTF8.GetBytes(json);
 
