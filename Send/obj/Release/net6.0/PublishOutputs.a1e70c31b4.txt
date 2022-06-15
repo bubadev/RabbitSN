@@ -1,0 +1,6 @@
+C:\Users\Grigory.Sarkisyants\Desktop\Send.exe
+C:\Users\Grigory.Sarkisyants\Desktop\Send.dll
+C:\Users\Grigory.Sarkisyants\Desktop\Send.deps.json
+C:\Users\Grigory.Sarkisyants\Desktop\Send.runtimeconfig.json
+C:\Users\Grigory.Sarkisyants\Desktop\Send.pdb
+C:\Users\Grigory.Sarkisyants\Desktop\RabbitMQ.Client.dll

@@ -1,0 +1,17 @@
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\bin\Debug\net6.0\RabbitSN.exe
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\bin\Debug\net6.0\RabbitSN.deps.json
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\bin\Debug\net6.0\RabbitSN.runtimeconfig.json
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\bin\Debug\net6.0\RabbitSN.dll
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\bin\Debug\net6.0\RabbitSN.pdb
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.csproj.AssemblyReference.cache
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.AssemblyInfoInputs.cache
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.AssemblyInfo.cs
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.csproj.CoreCompileInputs.cache
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.csproj.CopyComplete
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.dll
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\refint\RabbitSN.dll
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.pdb
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\RabbitSN.genruntimeconfig.cache
+C:\Users\Grigory.Sarkisyants\source\repos\RabbitSN\Send\obj\Debug\net6.0\ref\RabbitSN.dll
