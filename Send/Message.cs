@@ -31,11 +31,8 @@ namespace RabbitSN
             using (Config config = new Config())
             {
                 Time = DateTime.Now;
-                string json;
-                byte[] body;
-
-                json = JsonSerializer.Serialize(this);
-                body = Encoding.UTF8.GetBytes(json);
+                string json = JsonSerializer.Serialize(this);
+                byte[] body = Encoding.UTF8.GetBytes(json);
 
                 config.Channel.BasicPublish(
                     exchange: "send",
